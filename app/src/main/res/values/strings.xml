@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-device-info</string>
+    <string name="device_info" >Device info</string>
+</resources>
